@@ -1,0 +1,573 @@
+/*
+theme Name: Mon theme
+*/   
+
+.navbar-collapse {
+    padding-top: 0px;
+padding-bottom: 0px;
+line-height: 10px;
+font-family: "Rockwell Extra Bold", "Goudy Old Style","Copperplate Gothic Light";
+font-size: 20px;
+letter-spacing: -0.4px;
+word-spacing: 2px;
+color: #352dc7;
+font-weight: 700;
+text-decoration: none solid rgb(242, 239, 239);
+font-style: normal;
+font-variant: small-caps;  
+}
+
+
+.navbar-brand {
+    font-family:  "Goudy Old Style";
+    font-weight: 1000;
+    font-size: 50px;
+    text-transform: capitalize ! important;
+}
+
+#demo {
+    -webkit-box-shadow: 0px 0px 20px 2px rgba(0,0,0,0.28); 
+    box-shadow: 0px 0px 25px 10px rgba(0,0,0,0.28);
+    }
+customize-support {
+    color:rgb(255, 0, 157) !important;
+}
+#navbarSupportedContent {
+margin: 0px;
+color:blue !important;
+background:rgba(100, 100, 100, .0);
+justify-content: center; 
+}
+
+.wp-block-cover {
+   padding: 0px; 
+    margin: 0px;
+    position:sticky;
+  
+}
+
+.wp-block-cover__inner-container{
+    margin-top: 150px ;
+}
+
+
+.wp-block-cover__inner-container p {
+
+padding-top: 0px;
+padding-bottom: 0px;
+line-height: 70px;
+font-family: "Goudy Old Style";
+font-size: 50px;
+letter-spacing: -0.4px;
+word-spacing: 2px;
+/* color:#f89b06!important; */
+font-weight: 700;
+text-decoration: none solid rgb(207, 199, 199);
+font-style: normal;
+/* font-variant: small-caps; */
+ /* text-transform: capitalize;  */
+}   
+.wp-image-163 {
+    position:fixed;
+}
+
+.position-navbar {
+    position: absolute !important;
+    top: 30px;
+    height: 50px;
+    z-index: 1;
+}
+
+.menu-style{
+    color:white !important;
+    
+}
+
+#menu-navigation{
+    padding-left: 180px;
+    font-size: 35px;
+    color: antiquewhite;
+}
+
+.has-x-large-font-size {
+    font-size: var(--wp--preset--font-size--x-large) !important;
+    font-family: "Rochwell Extra Bold";
+}
+
+.nav-link{
+    /* text-shadow: 3px 3px 3px #2330CE; */
+    color: #F89B06 !important;
+  
+    }  
+
+.nav-link:hover{
+    text-shadow: 1px 1px 0px #2330CE;
+    color:#961dfe !important;
+    
+}
+
+.titre-size {
+    padding: 80px 0 !important;
+}
+
+
+.cartesing{
+    padding-left: 15px;
+}
+
+.wp-image-55 {
+    border: 0px solid #8100ff;
+    border-radius: 0px 0px 0px 70px !important;
+    }
+
+.wp-image-56 {
+    border: 0px solid #8100ff;
+    border-radius: 0px 0px 70px 0px !important;
+    }
+
+.wp-image-180 {
+    border: 0px solid #8100ff;
+    border-radius: 70px 0px 0px 0px !important;
+    }
+
+.wp-image-179 {
+    border: 0px solid #8100ff;
+    border-radius: 0px 70px 0px 0px !important;
+    }
+.wp-block-columns{
+    margin-top: 10px;
+    margin-bottom: 0em;
+}
+.wp-block-column{
+    font-family:"Goudy Old Style" ;
+} 
+.wp-container-2{
+    margin-top: 0px;
+    line-height: 50px;
+}
+
+.wp-container-18{
+    margin-top: 0px;
+}
+
+
+.wp-container-6{
+
+    padding: 0px;
+}
+
+.clotu{
+    padding-top: 150px;
+    font-family: "Abril Fatface","display";
+    font-size: 120px;
+}
+
+.image {
+    color: whitesmoke;
+    background-image: url(http://localhost/projettitre/wp-content/uploads/2022/08/IMG_4762.png) !important;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    height:500px;
+    width:auto;
+    text-align: center;
+}
+.custom-logo{
+    margin-top: 35px !important;
+}
+
+.bouti{
+    color: #F89B06;
+    font-size: 25px;
+    font-family: "Goudy Old Style" !important;
+    padding-top: 12px;
+    text-align:start;
+    
+}
+.politic{
+    font-family: "Copperplate Gothic Light";
+    font-size:15px;
+    text-align:start;
+    margin:0px !important;
+    height: 50px !important;
+    padding-left: 120px;
+    padding-top: 20px;
+}
+
+
+.bi{
+    color: white;
+}
+
+.bi:hover{
+    color: #F89B06
+}
+li#menu-item-44{
+list-style-type: none;
+}
+.comm{
+    width: 400px;
+    margin-left: 230px;
+    font-weight: bolder;
+    
+}
+
+.cont{
+    /* margin-top: 70px; */
+    height:  70px;
+}
+.para{
+    width: 600px;
+    margin: auto;
+}
+
+.wp-block-cover__background{
+    padding: 0px; 
+    margin: 0px;
+    position: sticky;
+    
+}
+.bloc-trait1{
+    transform: rotate(360deg);
+    width: 50px;
+    height: 25px;
+    color: #F89B06;
+    opacity: unset;
+    margin-left: 400px ;
+}
+.wp-container-36.wp-block-column.bloc-trait1.has-text-color.has-background {
+    margin-left: 750px;
+  
+}
+#bloc-trait2{
+    transform: rotate(360deg);
+    width: 30% !important;
+    height: 25px;
+    color: #F89B06;
+    opacity: unset;
+    margin-right: 400px ;
+}
+div#bloc-trait2 {
+    margin-right: 750px;
+}
+
+.bloc-trait3{
+    transform: rotate(360deg) !important;
+    width: 100px;
+    height: 25px;
+    color: #F89B06;
+    opacity: unset;
+}
+
+
+.wp-container-4{
+    margin-top: 0px;
+}
+
+.wp-container-6{
+    margin-top: 0px;
+}
+
+.wp-block-webfactory-map {
+    width: 700px !important;
+    height: 625px;
+}
+.wpcf7{
+    width: 700px !important;
+    height: 625px !important;
+}
+
+
+.wp-container-22 {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    margin-bottom: 30px;
+   
+}
+
+.wp-block-contact-form-7-contact-form-selector{
+    padding-right: 20px;
+}
+
+.wp-block-cover__inner-container {
+
+    margin-bottom: 40px;
+}
+
+
+.wp-block-cover__image-background{
+    opacity: 0.4;
+}
+
+.row.formule {
+    margin-bottom: 10px;
+}
+
+.wpcf7 form .wpcf7-response-output {
+    margin:0px;
+    padding: 0px;
+    border: 2px solid #00a0d2;
+}
+.wpcf7-form p {
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    height: 40px;  
+}
+
+.wp-container-48{
+    height: 150px; 
+}
+
+.wp-container-37{
+    gap: 0em;
+}
+
+.wp-block-buttons>.wp-block-button.has-custom-font-size .wp-block-button__link {
+    
+    padding: 0px;
+    margin:  0px;
+    height: 50px;
+    width: 300px;    
+}
+
+.wp-block-button.is-style-outline{
+    height: 50px;
+    width: 300px;
+}
+
+.wp-block-button__link.has-white-color.has-text-color.has-background{
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-top: 0px;
+    height: 50px;
+    width: 300px;
+
+}
+
+.wp-container-19.wp-block-column {
+    display: flex;
+
+    margin-bottom: 20px;
+    margin-top: 50px;
+}
+
+.wp-container-26{
+    margin-top: 0px;
+}
+
+
+.bloc-val{
+    width: 75%;
+    margin: auto;  
+}
+
+.bloc-con{
+    display: flex;
+    justify-content: center;
+}
+.bloc-inspi{
+    width: 75%;
+    margin: auto;
+}
+.bloc-arti{
+    height: 400px;
+    padding-top: 50px;
+}
+
+label{
+    font-size: 20px;
+}
+.bloc-histoire{
+  margin: auto;
+  width: 80%; 
+}
+
+.ensemble {
+    justify-content: center;
+    height: 1000px;
+}
+.profil{
+    height: 520px !important;
+    text-align: center !important;
+}
+.bloc-dessgale{
+    padding-top: 20%;
+}
+.bloc-pub{
+    flex-wrap: wrap !important;
+    flex-direction: row;
+}
+
+@media (min-width:992px) and (max-width: 1456px) {
+    #menu-navigation{
+        padding-left: 0px;
+        
+    }
+    .naviga{
+        display: block !important;
+    }
+    .navbar-expand-lg .navbar-collapse {
+        display: block!important;
+        flex-basis: auto;
+    }
+}
+
+
+@media (min-width:837px) and (max-width: 991px) {
+
+}
+
+
+@media (min-width:771px) and (max-width: 836px) {
+    .wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column {
+         flex-basis: 0%!important; 
+    } 
+    .clotu {
+        padding-top: 150px;
+        font-family: "Abril Fatface","display";
+        font-size: 60px;
+    }
+    .bouti{
+        width: 100%;
+        text-align: center;
+    }
+    .reso{
+        width: 100%;
+        text-align: center;
+    }
+    .policonf{
+        width: 100%; 
+       padding-left: 150px; 
+    }
+    #bloc-trait2{
+        margin-top: 2%;
+        margin-right: 250px !important;
+    }
+    #bloc-trait1{
+        margin-top: 2%;
+        margin-left: 250px;
+    }
+    #bloc-lapin{
+        width: 20px;
+    }
+    #compotrait{
+        
+        margin-top: 120px;
+    }  
+}
+
+
+@media (min-width:577px) and (max-width: 770px) {
+    
+body{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+    .wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column {
+        flex-basis: 0%!important;
+    }
+    .wp-container-46.wp-block-columns {
+        display: block;
+      
+    }
+    #visigal{
+        margin-bottom: 10px;
+    }
+ 
+    .boureplo{
+        display:block;
+    }
+    .bouti{
+        width: 100%;
+        text-align: center;
+    }
+    .reso{
+        width: 100%;
+        text-align: center;
+    }
+    .policonf{
+        width: 100%; 
+       padding-left: 100px; 
+    }
+    .clotu {
+        padding-top: 150px;
+        font-family: "Abril Fatface","display";
+        font-size: 40px;
+    }
+    #bloc-trait2{
+        margin-top: 1%;
+        margin-right: 150px !important;
+    }
+    #bloc-trait1{
+        margin-top: 1%;
+        margin-left: 150px;
+    }
+    .para{
+        width: auto;
+
+    }
+}
+
+
+
+@media  (max-width: 576px) {
+    
+body{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+    .wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column {
+        flex-basis: 0%!important;
+    }
+    .wp-container-46.wp-block-columns {
+        display: block;
+      
+    }
+    #visigal{
+        margin-bottom: 10px;
+    }
+ 
+    .boureplo{
+        display:block;
+    }
+    .bouti{
+        width: 100%;
+        text-align: center;
+    }
+    .reso{
+        width: 100%;
+        text-align: center;
+    }
+    .policonf{
+        width: 100%; 
+       padding-left: 0px; 
+    }
+    .clotu {
+        padding-top: 150px;
+        font-family: "Abril Fatface","display";
+        font-size: 40px;
+    }
+    #bloc-trait2{
+        margin-top: 1%;
+        margin-right: 150px !important;
+    }
+    #bloc-trait1{
+        margin-top: 1%;
+        margin-left: 150px;
+    }
+    .para{
+        width: auto;
+        
+    }
+    .conclumanga{
+        font-size: 10px;
+    }
+}
+
+
+
+
+
+
+

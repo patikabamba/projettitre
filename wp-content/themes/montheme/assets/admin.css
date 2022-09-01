@@ -1,0 +1,20 @@
+.manage-column.column-thumbnail {
+width: 50px;
+}
+.column-sponso {
+    vertical-align: middle!important;
+    text-align: center;
+}
+
+.column-sponso .bullet {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    background: green;
+
+}
+.column-sponso .bullet-no {
+    background: red;
+}
+
