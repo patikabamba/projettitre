@@ -6,12 +6,12 @@
     <p class=" para">La passion et l’Amour du dessein  ne se transmettent pas  , nous les decouvrons au fil des années . cet Art nous permet d’etre nous meme et de nous exprimer en toute liberté.</p>
     <div class="cont container-fluid">
         <div class="boureplo row">
-            <div class="bouti col-4 ">
+            <div class="bouti col-4 col-sm-12 col-md-12 col-lg-4 ">
                 <?= get_option('boutique_horaire') ?>
                 <!-- <?= get_option('boutique_date') ?> -->
             </div>
 
-            <div class=" reso col-4">
+            <div class=" reso col-4 col-sm-12 col-md-12 col-lg-4 ">
                 <div class="row fs-1">
                     <div class="col"><a href="https://fr-fr.facebook.com"><i class="bi bi-facebook"></i></a></div>
                     <div class="col"><a href="https://www.youtube.com"><i class="bi bi-youtube"></i></a></div>
@@ -20,9 +20,9 @@
                 </div>
             </div>
  
-            <div class="policonf col-4">
-                <div class="row">
-                    <div class="col">
+            <div class="policonf col-4 col-sm-12 col-md-12 col-lg-4 ">
+                <div class="podeco row">
+                    <div class="poco col">
                         <?php wp_nav_menu([
                             'theme_location' => 'footer', 
                             'container' => false,

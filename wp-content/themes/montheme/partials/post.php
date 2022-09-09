@@ -1,10 +1,10 @@
 <div class="card m-4" style="max-width: 540px; max-height:auto;">
             <div class="row wp-block-cover">
-                <div class="col-md-7">
+                <div class="col-md-8">
                     <!-- <?php the_post_thumbnail('post-thumbnail', ['class' =>'img-fluid rounded-start']) ?> -->
                     <img src="<?php the_post_thumbnail_url(); ?>" class="img-fluid rounded-start" alt="..." style="height:340px; width: 540px;">
                 </div>
-                <div class="col-md-5">
+                <div class="col-md-4">
                     <div class="card-body">
                         <h5 class="card-title"><a href="<?php the_permalink() ?>"><?php the_title() ?> </a></h5>
                         <?php the_author() ?>

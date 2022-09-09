@@ -8,8 +8,8 @@
 </head>
 <body> 
 
-<nav class="navbar navbar-expand-lg position-navbar py-0 w-100">
-  <div class="container-fluid">
+<nav class="navbar navbar-expand-sm position-navbar py-0 w-100">
+  <div class="tete container-fluid">
     <a class="navbar-brand" href="<?php echo get_home_url()?>">
     <?php
     get_custom_logo( $blog_id = 0 );

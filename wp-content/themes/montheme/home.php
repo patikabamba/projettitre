@@ -1,5 +1,5 @@
 <?php get_header() ?>
-<h1 class="text-center pt-5 mt-5 titre-size">Nos Publications</h1>
+<h1 class="publica text-center pt-5 mt-5 titre-size">Nos Publications</h1>
 
         
     
@@ -9,14 +9,14 @@
         <div class="row">
             <?php while(have_posts()): the_post(); ?>
             
-                <div class="col-12 col-md-4 col-lg-6 mb-4">
+                <div class="col-sm-12  col-lg-6 mb-4">
                     <div class="card">
-                        <div class="row g-0">
-                            <div class="col-md-7">
+                        <div class="bloc-nospub row g-0">
+                            <div class="col-7 ">
                         
                                 <img src="<?php the_post_thumbnail_url(); ?>" style="width:100%; height:300px; margin:auto" alt="..."> 
                             </div>
-                            <div class="col-md-5">
+                            <div class="col-5 ">
                                 <div class="card-body">
                                     <h5 class="card-title">  <a href=""><?php the_title() ?> </a></h5>
                                     <?php the_author() ?>
